@@ -1,6 +1,6 @@
 <div align="center">
 
-# ૮ ˶ᵔ ᵕ ᵔ˶ ა 안녕하세요, 이동현입니다!
+# 안녕하세요, 이동현입니다!
 
 ### 🌱 현재 슈어소프트테크 SW개발 인턴으로 일하며,  
 ### 검증 로그를 구조화하고 이를 이상 패턴 학습용 데이터셋으로 연결하는 일을 하고 있어요
@@ -9,8 +9,8 @@
 
 <table>
   <tr>
-    <td width="260" align="center">
-      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="450" />
+    <td width="350" align="center">
+      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="220" />
     </td>
     <td align="left">
 
