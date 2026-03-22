@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-90CAF9?style=for-the-badge&logo=cplusplus&logoColor=0D47A1)
+![CAPL](https://img.shields.io/badge/CAPL-B39DDB?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-A5D6A7?style=for-the-badge&logo=springboot&logoColor=1B5E20)
 ![FastAPI](https://img.shields.io/badge/FastAPI-80CBC4?style=for-the-badge&logo=fastapi&logoColor=004D40)
 ![MySQL](https://img.shields.io/badge/MySQL-81D4FA?style=for-the-badge&logo=mysql&logoColor=01579B)
