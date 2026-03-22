@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="h/Users/idonghyeon/Downloads/KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="220"/>
+<img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="220" />"
 
 </div>
 
