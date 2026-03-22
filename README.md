@@ -14,7 +14,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-80CBC4?style=for-the-badge&logo=fastapi&logoColor=004D40)
 ![MySQL](https://img.shields.io/badge/MySQL-81D4FA?style=for-the-badge&logo=mysql&logoColor=01579B)
 ![Docker](https://img.shields.io/badge/Docker-90CAF9?style=for-the-badge&logo=docker&logoColor=1565C0)
-![Qdrant](https://img.shields.io/badge/Qdrant-F48FB1?style=for-the-badge)
 <br>
 
 ### 🌱 현재 슈어소프트테크 SW개발 인턴으로 일하며,  
