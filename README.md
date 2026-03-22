@@ -6,6 +6,7 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFAB91?style=for-the-badge&logo=pytorch&logoColor=BF360C)
 ![Java](https://img.shields.io/badge/Java-FFB74D?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-90CAF9?style=for-the-badge&logo=cplusplus&logoColor=0D47A1)
 ![CAPL](https://img.shields.io/badge/CAPL-B39DDB?style=for-the-badge)
