@@ -46,6 +46,7 @@ lee_donghyun = {
         "개인화 랭킹",
         "Hybrid Search",
         "Agentic RAG",
+        "AI Agent",
         "LLM 평가 및 검증"
     ],
     "현재집중하는것": [
