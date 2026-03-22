@@ -11,10 +11,9 @@
 ![CAPL](https://img.shields.io/badge/CAPL-B39DDB?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFAB91?style=for-the-badge&logo=pytorch&logoColor=BF360C)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-A5D6A7?style=for-the-badge&logo=springboot&logoColor=1B5E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-80CBC4?style=for-the-badge&logo=fastapi&logoColor=004D40)
 ![MySQL](https://img.shields.io/badge/MySQL-81D4FA?style=for-the-badge&logo=mysql&logoColor=01579B)
 ![Docker](https://img.shields.io/badge/Docker-90CAF9?style=for-the-badge&logo=docker&logoColor=1565C0)
-![Qdrant](https://img.shields.io/badge/Qdrant-F48FB1?style=for-the-badge)
+
 
 <br>
 
