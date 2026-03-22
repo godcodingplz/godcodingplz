@@ -1,14 +1,4 @@
 # Hi, I'm Donghyun 👋
-# Recipe Recommendation Service
-
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-green)
-![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-red)
-![RAG](https://img.shields.io/badge/RAG-Agentic-blue)
-
-Backend for recipe recommendation using Hybrid Search, RRF, CrossEncoder rerank, and Agentic RAG.
-
-<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Developer who connects people, data, and services
 
@@ -48,3 +38,14 @@ donghyun = {
         "Recommendation optimization"
     ]
 }
+
+# Recipe Recommendation Service
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-green)
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-red)
+![RAG](https://img.shields.io/badge/RAG-Agentic-blue)
+
+Backend for recipe recommendation using Hybrid Search, RRF, CrossEncoder rerank, and Agentic RAG.
+
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
