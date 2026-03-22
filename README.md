@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="260" align="center">
-      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="350" />
+      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="450" />
     </td>
     <td align="left">
 
