@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="260" align="center">
-      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="220" />
+      <img src="./KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="350" />
     </td>
     <td align="left">
 
@@ -36,6 +36,6 @@ lee_donghyun = {
     "현재집중하는것": [
         "검증 로그를 학습 가능한 데이터셋으로 확장하기",
         "구조화된 데이터를 모델과 연결하는 파이프라인 설계",
-        "서비스로 이어질 수 있는 추천/검색 시스템 고도화"
+        "특정 도메인 환경에서의 검색 시스템 고도화"
     ]
 }
