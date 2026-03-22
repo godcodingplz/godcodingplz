@@ -1,6 +1,6 @@
 <div align="center">
 
-# ૮ ˶ᵔ ᵕ ᵔ˶ ა 안녕하세요, 이동현입니다!
+# 안녕하세요, 이동현입니다!
 
 ### ☁️ 사람, 데이터, 서비스를 연결하는 개발자를 지향하고 있어요  
 ### 🌱 추천 시스템, 검색 품질 개선, RAG, LLM 서비스에 관심이 많아요
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZjY3R6aXl0NTM3eHJ4cG51ZmE3eDBpcXBxdGI2YjJ0Y3J3eDI2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378zKVk7Eh3yHoJi/giphy.gif" width="220"/>
+<img src="h/Users/idonghyeon/Downloads/KakaoTalk_Photo_2026-03-22-12-11-25.jpeg" width="220"/>
 
 </div>
 
